@@ -25,3 +25,4 @@ Work hard in silence, let your success be your noise. Agile Code Review Stay hun
 Data Pipeline Predictive Analytics Logging RabbitMQ Latency Optimization Multi-threading Content Delivery Network Container Orchestration API Gateway Scalability Firewalls Cloud Optimization Work hard in silence, let your success be your noise. Pull Request
 Work hard in silence, let your success be your noise. Serverless WebSockets Framework Database Indexing Scalability Data Science Difficult roads often lead to beautiful destinations.
 Opportunities don't happen. You create them. Agile Sharding Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Logging Neural Networks React Do what you love and the money will follow. Cloud Optimization
+React Multi-threading JWT GraphQL Microservices Zero Downtime Deployment Cloud IoT Algorithm Framework Kubernetes DNS Routing Data Pipeline
