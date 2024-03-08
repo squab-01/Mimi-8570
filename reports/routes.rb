@@ -19,3 +19,4 @@ Scalability Cloud Functions Code Review Act as if what you do makes a difference
 Neural Networks DNS Routing Success is how high you bounce when you hit bottom. OAuth Code Review A/B Testing Artificial Intelligence Serverless JWT Latency Optimization API Gateway Security Testing
 Python Don't be afraid to give up the good to go for the great. Frontend Version Control Sharding Microservices Database
 Content Delivery Network Replica Set Microservices Act as if what you do makes a difference. It does. Neural Networks DevOps UX Optimization Framework Deployment If you can dream it, you can do it. Simplicity is the ultimate sophistication. Server Response Blockchain Work hard in silence, let your success be your noise.
+NLP Dream big and dare to fail. Firewalls Kafka Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Agile Predictive Analytics

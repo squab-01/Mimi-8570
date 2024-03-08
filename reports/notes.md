@@ -20,3 +20,4 @@ Artificial Intelligence Testing Quantum Computing GraphQL Success usually comes 
 Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Logging Event Sourcing Scalability Latency Optimization DNS Routing Edge Computing Backend Message Queue Big Data Agile Serverless
 GraphQL Deployment Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Zero Downtime Deployment
 Great things never come from comfort zones. WebSockets Logging Artificial Intelligence Python
+To be the best, you must be able to handle the worst. Load Testing Microservices Artificial Intelligence Backend API
