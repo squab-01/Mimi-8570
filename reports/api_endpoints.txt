@@ -30,3 +30,4 @@ API Gateway Deployment Framework Monitoring CI/CD Event Sourcing
 Version Control Testing Machine Learning Cloud OAuth
 Event Sourcing IoT Optimization Parallel Processing Database Indexing If you can dream it, you can do it. A/B Testing Latency Optimization Load Balancing Don't be afraid to give up the good to go for the great. Security Container Orchestration
 Monitoring Microservices A/B Testing Lambda Functions Version Control Multi-threading Distributed Systems Stay hungry, stay foolish. Sharding Virtual Machines To be the best, you must be able to handle the worst. API Gateway JavaScript I find that the harder I work, the more luck I seem to have. Dream big and dare to fail.
+A/B Testing Load Balancing Security Opportunities don't happen. You create them. RabbitMQ Success usually comes to those who are too busy to be looking for it. JWT Lambda Functions Firewalls Microservices

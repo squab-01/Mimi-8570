@@ -26,3 +26,4 @@ Event Sourcing Predictive Analytics Database Indexing To be the best, you must b
 CI/CD OAuth Content Delivery Network To be the best, you must be able to handle the worst. If you can dream it, you can do it. Virtual Machines Kubernetes Neural Networks Simplicity is the ultimate sophistication. Pull Request Frontend Container Orchestration NLP Logging
 Do what you love and the money will follow. RabbitMQ Kafka Container Orchestration Sharding Happiness is not something ready made. It comes from your own actions. Content Delivery Network Database IoT
 Load Balancing Do what you love and the money will follow. Containerization Difficult roads often lead to beautiful destinations. Version Control Machine Learning If you can dream it, you can do it. CI/CD Security Database
+NLP Serverless Kubernetes Container Orchestration Load Balancing RabbitMQ Stay hungry, stay foolish.

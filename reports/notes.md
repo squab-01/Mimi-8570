@@ -19,3 +19,4 @@ API Gateway Opportunities don't happen. You create them. Zero Downtime Deploymen
 Artificial Intelligence Testing Quantum Computing GraphQL Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Machine Learning Work hard in silence, let your success be your noise. Microservices Container Orchestration
 Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Logging Event Sourcing Scalability Latency Optimization DNS Routing Edge Computing Backend Message Queue Big Data Agile Serverless
 GraphQL Deployment Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Zero Downtime Deployment
+Great things never come from comfort zones. WebSockets Logging Artificial Intelligence Python
