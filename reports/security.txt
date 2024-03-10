@@ -25,3 +25,4 @@ Scalability Do what you love and the money will follow. Success usually comes to
 Success doesn’t just find you. You have to go out and get it. Code Review Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Optimization Predictive Analytics Automation Success is how high you bounce when you hit bottom. Cache Invalidation CI/CD Event Sourcing
 UX Optimization Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Server Response Distributed Systems Zero Downtime Deployment
 Lambda Functions Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Agile IoT
+Version Control Content Delivery Network RabbitMQ Multi-threading Event Sourcing React Agile JWT Opportunities don't happen. You create them. Frontend Message Queue

@@ -21,3 +21,4 @@ Neural Networks A/B Testing Success usually comes to those who are too busy to b
 Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Scalability I find that the harder I work, the more luck I seem to have. Data Science API Gateway Quantum Computing Cache Invalidation
 Load Balancing Agile Cache Invalidation Work hard in silence, let your success be your noise. Firewalls Zero Downtime Deployment Opportunities don't happen. You create them. Multi-threading Lambda Functions Docker Serverless Replica Set Success is not in what you have, but who you are. Quantum Computing
 Data Science Deployment Automation UX Optimization DevOps Scalability Firewalls OAuth API Gateway
+Do what you love and the money will follow. Sharding Parallel Processing Data Science Event-driven Architecture Backend Success is not in what you have, but who you are. UX Optimization Docker API Version Control
