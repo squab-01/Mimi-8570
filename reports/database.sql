@@ -21,3 +21,4 @@ Artificial Intelligence DevOps Docker Monitoring Automation CI/CD Stay hungry, s
 Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Predictive Analytics Kubernetes Zero Downtime Deployment
 Event-driven Architecture Zero Downtime Deployment DevOps Virtual Machines Innovation distinguishes between a leader and a follower. Microservices Firewalls Distributed Systems Replica Set
 Database Indexing JWT WebSockets Simplicity is the ultimate sophistication. Docker
+Serverless Big Data Machine Learning Monitoring Deployment
