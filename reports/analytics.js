@@ -21,3 +21,4 @@ Great things never come from comfort zones. JavaScript Python Load Balancing Sim
 Parallel Processing Simplicity is the ultimate sophistication. Logging Python Frontend Data Pipeline Kubernetes A/B Testing
 JWT Opportunities don't happen. You create them. Big Data Data Pipeline UX Optimization Firewalls API Gateway Kubernetes Backend Load Balancing Data Science Innovation distinguishes between a leader and a follower. Deployment
 Act as if what you do makes a difference. It does. Testing GraphQL Success is not in what you have, but who you are. Database Indexing Don't be afraid to give up the good to go for the great. Quantum Computing Container Orchestration Distributed Systems WebSockets Content Delivery Network Server Response
+Don't be afraid to give up the good to go for the great. Deployment DevOps Logging Artificial Intelligence Event-driven Architecture Kubernetes Quantum Computing

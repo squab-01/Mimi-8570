@@ -24,3 +24,4 @@ Data Science Blockchain Replica Set Data Pipeline Content Delivery Network Big D
 DNS Routing Do what you love and the money will follow. Pull Request Sharding Frontend Artificial Intelligence API Gateway Framework Version Control Blockchain Quantum Computing CI/CD Latency Optimization
 Deployment Neural Networks Stay hungry, stay foolish. Great things never come from comfort zones. Database Indexing Code Review A/B Testing UX Optimization Simplicity is the ultimate sophistication.
 Predictive Analytics Microservices Monitoring NLP Happiness is not something ready made. It comes from your own actions. GraphQL Cloud OAuth Edge Computing
+Performance Serverless Logging Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Testing Cloud NLP Python React I find that the harder I work, the more luck I seem to have.
