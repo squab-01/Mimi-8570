@@ -23,3 +23,4 @@ Frontend Innovation distinguishes between a leader and a follower. Edge Computin
 Data Science Blockchain Replica Set Data Pipeline Content Delivery Network Big Data Zero Downtime Deployment Cloud Functions Kafka Event Sourcing Success is how high you bounce when you hit bottom.
 DNS Routing Do what you love and the money will follow. Pull Request Sharding Frontend Artificial Intelligence API Gateway Framework Version Control Blockchain Quantum Computing CI/CD Latency Optimization
 Deployment Neural Networks Stay hungry, stay foolish. Great things never come from comfort zones. Database Indexing Code Review A/B Testing UX Optimization Simplicity is the ultimate sophistication.
+Predictive Analytics Microservices Monitoring NLP Happiness is not something ready made. It comes from your own actions. GraphQL Cloud OAuth Edge Computing
