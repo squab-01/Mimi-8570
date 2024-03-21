@@ -20,3 +20,4 @@ Agile The only way to do great work is to love what you do. Success is not in wh
 Artificial Intelligence DevOps Docker Monitoring Automation CI/CD Stay hungry, stay foolish. Big Data Difficult roads often lead to beautiful destinations. Replica Set
 Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Predictive Analytics Kubernetes Zero Downtime Deployment
 Event-driven Architecture Zero Downtime Deployment DevOps Virtual Machines Innovation distinguishes between a leader and a follower. Microservices Firewalls Distributed Systems Replica Set
+Database Indexing JWT WebSockets Simplicity is the ultimate sophistication. Docker
