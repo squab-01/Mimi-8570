@@ -21,3 +21,4 @@ Opportunities don't happen. You create them. Blockchain Work hard in silence, le
 Algorithm Security Backend Automation Latency Optimization Event Sourcing
 Act as if what you do makes a difference. It does. If you can dream it, you can do it. React Success is how high you bounce when you hit bottom. GraphQL Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. Lambda Functions Replica Set Success doesn’t just find you. You have to go out and get it. Cloud Event Sourcing
+Load Balancing Firewalls Server Response Opportunities don't happen. You create them. Great things never come from comfort zones. Neural Networks Database Indexing Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. IoT Do what you love and the money will follow. Version Control
