@@ -26,3 +26,4 @@ Work hard in silence, let your success be your noise. Load Testing Virtual Machi
 Content Delivery Network Don't be afraid to give up the good to go for the great. Security JWT RabbitMQ Pull Request If you can dream it, you can do it. GraphQL
 RabbitMQ Firewalls UX Optimization GraphQL API Quantum Computing Load Balancing WebSockets Message Queue Distributed Systems Innovation distinguishes between a leader and a follower. Optimization
 Data Pipeline Cache Invalidation Zero Downtime Deployment Load Testing Microservices Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Multi-threading Predictive Analytics
+Multi-threading Content Delivery Network WebSockets Simplicity is the ultimate sophistication. Frontend Opportunities don't happen. You create them. Blockchain Logging API Gateway Agile Kubernetes Difficult roads often lead to beautiful destinations. Container Orchestration Replica Set Automation
