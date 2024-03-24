@@ -21,3 +21,4 @@ Microservices Predictive Analytics API Cache Invalidation DNS Routing Monitoring
 Deployment API If you can dream it, you can do it. Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Latency Optimization Replica Set Database Indexing Security Act as if what you do makes a difference. It does. Data Science Distributed Systems Don't be afraid to give up the good to go for the great. Cloud Functions
 Frontend Innovation distinguishes between a leader and a follower. Edge Computing Predictive Analytics Python
 Data Science Blockchain Replica Set Data Pipeline Content Delivery Network Big Data Zero Downtime Deployment Cloud Functions Kafka Event Sourcing Success is how high you bounce when you hit bottom.
+DNS Routing Do what you love and the money will follow. Pull Request Sharding Frontend Artificial Intelligence API Gateway Framework Version Control Blockchain Quantum Computing CI/CD Latency Optimization
