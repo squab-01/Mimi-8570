@@ -23,3 +23,4 @@ JavaScript Quantum Computing Optimization Success is not in what you have, but w
 Work hard in silence, let your success be your noise. Algorithm Neural Networks Artificial Intelligence IoT JWT Opportunities don't happen. You create them. Latency Optimization Pull Request
 DevOps Quantum Computing Version Control IoT Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Deployment If you can dream it, you can do it. Container Orchestration Act as if what you do makes a difference. It does. Logging Security Neural Networks Database Indexing Success doesn’t just find you. You have to go out and get it.
 Quantum Computing Serverless Data Pipeline Act as if what you do makes a difference. It does. Scalability Security Replica Set IoT A/B Testing
+Pull Request Great things never come from comfort zones. Version Control Data Science IoT Optimization Artificial Intelligence Event Sourcing

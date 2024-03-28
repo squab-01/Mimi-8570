@@ -11,3 +11,4 @@ Pull Request DNS Routing Stay hungry, stay foolish. Neural Networks Backend Mult
 Predictive Analytics Container Orchestration A/B Testing DevOps RabbitMQ Lambda Functions Logging Kubernetes
 Load Balancing Kubernetes Machine Learning CI/CD WebSockets Performance Sharding Edge Computing Parallel Processing Lambda Functions Kafka
 Virtual Machines Scalability Quantum Computing Success doesn’t just find you. You have to go out and get it. Database Indexing Parallel Processing UX Optimization Pull Request Machine Learning Simplicity is the ultimate sophistication. Latency Optimization Version Control
+Cloud Functions Message Queue IoT Firewalls I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Edge Computing Testing Event-driven Architecture Agile Multi-threading Big Data Serverless Backend Docker
