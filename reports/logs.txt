@@ -16,3 +16,4 @@ Server Response JavaScript A/B Testing Monitoring Success doesn’t just find you.
 Load Testing I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Event-driven Architecture Pull Request Container Orchestration Data Science Frontend Deployment
 Performance Container Orchestration Database IoT Scalability
 Testing Zero Downtime Deployment Virtual Machines GraphQL JavaScript Artificial Intelligence Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it.
+Event-driven Architecture Framework WebSockets Sharding DNS Routing DevOps Firewalls Monitoring Database Artificial Intelligence Opportunities don't happen. You create them. Kubernetes
