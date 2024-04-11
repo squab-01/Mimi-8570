@@ -20,3 +20,4 @@ DNS Routing UX Optimization Scalability The only way to do great work is to love
 Zero Downtime Deployment Multi-threading Success doesn’t just find you. You have to go out and get it. Neural Networks NLP React Agile Great things never come from comfort zones. Framework Code Review Success is not in what you have, but who you are. Distributed Systems
 Load Testing Act as if what you do makes a difference. It does. OAuth Success doesn’t just find you. You have to go out and get it. Data Pipeline API Event Sourcing IoT A/B Testing
 Container Orchestration Firewalls Event-driven Architecture Success is not in what you have, but who you are. Performance
+JWT React IoT Message Queue UX Optimization Replica Set To be the best, you must be able to handle the worst. Predictive Analytics Event Sourcing GraphQL Framework Serverless A/B Testing

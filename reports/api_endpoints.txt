@@ -25,3 +25,4 @@ Cloud Quantum Computing Security Neural Networks NLP Kubernetes Distributed Syst
 Kafka Success doesn’t just find you. You have to go out and get it. Containerization To be the best, you must be able to handle the worst. Cloud Edge Computing JavaScript Data Science GraphQL
 Sharding Scalability The only way to do great work is to love what you do. Pull Request Algorithm IoT
 Success doesn’t just find you. You have to go out and get it. Message Queue Blockchain Database Simplicity is the ultimate sophistication. JWT To be the best, you must be able to handle the worst. CI/CD Virtual Machines Optimization Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise.
+Event Sourcing Firewalls Do what you love and the money will follow. Latency Optimization Don't be afraid to give up the good to go for the great. Serverless Container Orchestration Virtual Machines JWT
