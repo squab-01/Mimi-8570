@@ -17,3 +17,4 @@ Blockchain Database CI/CD Opportunities don't happen. You create them. Server Re
 API Load Balancing Performance Data Pipeline Content Delivery Network Happiness is not something ready made. It comes from your own actions. Scalability JavaScript Backend
 Scalability Cloud Functions Code Review Act as if what you do makes a difference. It does. Quantum Computing Parallel Processing GraphQL Testing
 Neural Networks DNS Routing Success is how high you bounce when you hit bottom. OAuth Code Review A/B Testing Artificial Intelligence Serverless JWT Latency Optimization API Gateway Security Testing
+Python Don't be afraid to give up the good to go for the great. Frontend Version Control Sharding Microservices Database
