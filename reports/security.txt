@@ -18,3 +18,4 @@ Data Pipeline Firewalls Edge Computing Opportunities don't happen. You create th
 Act as if what you do makes a difference. It does. CI/CD Multi-threading Scalability Pull Request Parallel Processing Data Pipeline API Gateway Replica Set Machine Learning Cloud Difficult roads often lead to beautiful destinations. Microservices Predictive Analytics IoT
 DNS Routing UX Optimization Scalability The only way to do great work is to love what you do. Neural Networks Microservices Backend
 Zero Downtime Deployment Multi-threading Success doesn’t just find you. You have to go out and get it. Neural Networks NLP React Agile Great things never come from comfort zones. Framework Code Review Success is not in what you have, but who you are. Distributed Systems
+Load Testing Act as if what you do makes a difference. It does. OAuth Success doesn’t just find you. You have to go out and get it. Data Pipeline API Event Sourcing IoT A/B Testing
