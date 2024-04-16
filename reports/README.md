@@ -20,3 +20,4 @@ Zero Downtime Deployment Multi-threading JWT Container Orchestration Work hard i
 Multi-threading Lambda Functions Pull Request The only way to do great work is to love what you do. WebSockets
 Lambda Functions Multi-threading Happiness is not something ready made. It comes from your own actions. Kafka Framework Firewalls Predictive Analytics I find that the harder I work, the more luck I seem to have.
 JavaScript Quantum Computing Optimization Success is not in what you have, but who you are. Load Balancing Machine Learning Scalability Pull Request Automation Difficult roads often lead to beautiful destinations. Event Sourcing
+Work hard in silence, let your success be your noise. Algorithm Neural Networks Artificial Intelligence IoT JWT Opportunities don't happen. You create them. Latency Optimization Pull Request

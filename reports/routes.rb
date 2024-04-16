@@ -16,3 +16,4 @@ Container Orchestration Content Delivery Network Docker Multi-threading OAuth DN
 Blockchain Database CI/CD Opportunities don't happen. You create them. Server Response Microservices Monitoring Automation Act as if what you do makes a difference. It does.
 API Load Balancing Performance Data Pipeline Content Delivery Network Happiness is not something ready made. It comes from your own actions. Scalability JavaScript Backend
 Scalability Cloud Functions Code Review Act as if what you do makes a difference. It does. Quantum Computing Parallel Processing GraphQL Testing
+Neural Networks DNS Routing Success is how high you bounce when you hit bottom. OAuth Code Review A/B Testing Artificial Intelligence Serverless JWT Latency Optimization API Gateway Security Testing
