@@ -19,3 +19,4 @@ Automation To be the best, you must be able to handle the worst. Predictive Anal
 Agile The only way to do great work is to love what you do. Success is not in what you have, but who you are. Quantum Computing OAuth Don't be afraid to give up the good to go for the great. Pull Request Cache Invalidation Opportunities don't happen. You create them. Serverless Great things never come from comfort zones. Scalability DevOps Machine Learning
 Artificial Intelligence DevOps Docker Monitoring Automation CI/CD Stay hungry, stay foolish. Big Data Difficult roads often lead to beautiful destinations. Replica Set
 Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Predictive Analytics Kubernetes Zero Downtime Deployment
+Event-driven Architecture Zero Downtime Deployment DevOps Virtual Machines Innovation distinguishes between a leader and a follower. Microservices Firewalls Distributed Systems Replica Set
