@@ -23,3 +23,4 @@ Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Microservi
 Version Control A/B Testing Difficult roads often lead to beautiful destinations. Testing Event-driven Architecture Simplicity is the ultimate sophistication. Lambda Functions Big Data JavaScript
 Work hard in silence, let your success be your noise. Agile Code Review Stay hungry, stay foolish. Python Data Science WebSockets Dream big and dare to fail. Kubernetes Cloud Functions
 Data Pipeline Predictive Analytics Logging RabbitMQ Latency Optimization Multi-threading Content Delivery Network Container Orchestration API Gateway Scalability Firewalls Cloud Optimization Work hard in silence, let your success be your noise. Pull Request
+Work hard in silence, let your success be your noise. Serverless WebSockets Framework Database Indexing Scalability Data Science Difficult roads often lead to beautiful destinations.

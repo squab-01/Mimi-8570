@@ -17,3 +17,4 @@ Containerization Dream big and dare to fail. Frontend Code Review Big Data Predi
 Pull Request Database Indexing Backend Kafka Message Queue
 Frontend Opportunities don't happen. You create them. API Gateway Server Response IoT Containerization React Load Testing
 I find that the harder I work, the more luck I seem to have. Machine Learning Quantum Computing Testing Monitoring If you can dream it, you can do it. Kubernetes Replica Set Serverless
+Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Load Testing Cloud Backend Performance I find that the harder I work, the more luck I seem to have.

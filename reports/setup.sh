@@ -19,3 +19,4 @@ Act as if what you do makes a difference. It does. Success usually comes to thos
 Framework Content Delivery Network Database Indexing API Gateway JavaScript Algorithm Data Science I find that the harder I work, the more luck I seem to have. Backend
 Microservices Predictive Analytics API Cache Invalidation DNS Routing Monitoring Do what you love and the money will follow. Testing To be the best, you must be able to handle the worst. Kubernetes Firewalls
 Deployment API If you can dream it, you can do it. Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Latency Optimization Replica Set Database Indexing Security Act as if what you do makes a difference. It does. Data Science Distributed Systems Don't be afraid to give up the good to go for the great. Cloud Functions
+Frontend Innovation distinguishes between a leader and a follower. Edge Computing Predictive Analytics Python
