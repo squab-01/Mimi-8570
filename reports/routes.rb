@@ -14,3 +14,4 @@ Act as if what you do makes a difference. It does. Distributed Systems Database 
 OAuth Container Orchestration API Gateway Kubernetes Big Data GraphQL JWT Success doesn’t just find you. You have to go out and get it. RabbitMQ Distributed Systems Firewalls
 Container Orchestration Content Delivery Network Docker Multi-threading OAuth DNS Routing Data Science
 Blockchain Database CI/CD Opportunities don't happen. You create them. Server Response Microservices Monitoring Automation Act as if what you do makes a difference. It does.
+API Load Balancing Performance Data Pipeline Content Delivery Network Happiness is not something ready made. It comes from your own actions. Scalability JavaScript Backend
