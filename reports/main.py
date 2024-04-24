@@ -18,3 +18,4 @@ Latency Optimization DevOps Version Control Don't be afraid to give up the good 
 Docker OAuth Edge Computing Kafka Framework Cloud Functions Latency Optimization Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have.
 Machine Learning Monitoring Multi-threading Server Response Replica Set
 Opportunities don't happen. You create them. Blockchain Work hard in silence, let your success be your noise. Load Balancing Dream big and dare to fail. Cloud Event-driven Architecture A/B Testing Distributed Systems API Gateway RabbitMQ Performance NLP
+Algorithm Security Backend Automation Latency Optimization Event Sourcing

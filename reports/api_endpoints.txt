@@ -24,3 +24,4 @@ Microservices Predictive Analytics Deployment Act as if what you do makes a diff
 Cloud Quantum Computing Security Neural Networks NLP Kubernetes Distributed Systems Message Queue IoT Optimization Load Testing Content Delivery Network Kafka
 Kafka Success doesn’t just find you. You have to go out and get it. Containerization To be the best, you must be able to handle the worst. Cloud Edge Computing JavaScript Data Science GraphQL
 Sharding Scalability The only way to do great work is to love what you do. Pull Request Algorithm IoT
+Success doesn’t just find you. You have to go out and get it. Message Queue Blockchain Database Simplicity is the ultimate sophistication. JWT To be the best, you must be able to handle the worst. CI/CD Virtual Machines Optimization Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise.

@@ -14,3 +14,4 @@ Data Pipeline Version Control Logging Load Testing Containerization DevOps Big D
 Zero Downtime Deployment Load Testing Innovation distinguishes between a leader and a follower. Server Response Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Artificial Intelligence Parallel Processing Framework
 Server Response JavaScript A/B Testing Monitoring Success doesn’t just find you. You have to go out and get it. Quantum Computing NLP Database Indexing Cloud Functions Optimization Message Queue Performance Sharding Load Balancing Event Sourcing
 Load Testing I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Event-driven Architecture Pull Request Container Orchestration Data Science Frontend Deployment
+Performance Container Orchestration Database IoT Scalability
