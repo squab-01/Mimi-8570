@@ -18,3 +18,4 @@ Firewalls Code Review Predictive Analytics Deployment Multi-threading Monitoring
 Big Data Edge Computing A/B Testing Scalability Code Review Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it.
 Content Delivery Network Server Response Kafka Cloud Functions To be the best, you must be able to handle the worst.
 Neural Networks A/B Testing Success usually comes to those who are too busy to be looking for it. DNS Routing Do what you love and the money will follow. Agile Event-driven Architecture Pull Request Logging WebSockets Artificial Intelligence Python JWT
+Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Scalability I find that the harder I work, the more luck I seem to have. Data Science API Gateway Quantum Computing Cache Invalidation
