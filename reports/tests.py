@@ -13,3 +13,4 @@ Algorithm Parallel Processing Cache Invalidation Pull Request JavaScript Message
 Cache Invalidation React Agile Happiness is not something ready made. It comes from your own actions. Load Testing Optimization JavaScript
 API Edge Computing Security Success is how high you bounce when you hit bottom. Docker Python Parallel Processing Containerization Big Data Lambda Functions A/B Testing UX Optimization WebSockets
 UX Optimization Lambda Functions Code Review WebSockets Event Sourcing Success is not in what you have, but who you are. Blockchain Cloud Functions Predictive Analytics JWT If you can dream it, you can do it. API Gateway DevOps
+Security Python Do what you love and the money will follow. Optimization Act as if what you do makes a difference. It does. Cloud Event-driven Architecture
