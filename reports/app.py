@@ -8,3 +8,4 @@ Difficult roads often lead to beautiful destinations. Frontend If you can dream 
 Success usually comes to those who are too busy to be looking for it. Parallel Processing Serverless Lambda Functions CI/CD
 Replica Set Microservices A/B Testing Containerization Distributed Systems Artificial Intelligence Agile Scalability Pull Request Machine Learning Happiness is not something ready made. It comes from your own actions.
 Pull Request DNS Routing Stay hungry, stay foolish. Neural Networks Backend Multi-threading Work hard in silence, let your success be your noise. Kafka
+Predictive Analytics Container Orchestration A/B Testing DevOps RabbitMQ Lambda Functions Logging Kubernetes
