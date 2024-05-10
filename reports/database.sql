@@ -15,3 +15,4 @@ Kubernetes Zero Downtime Deployment Cloud I find that the harder I work, the mor
 JavaScript API Gateway Replica Set Deployment Work hard in silence, let your success be your noise. Kafka Security Docker
 Microservices Load Testing Database Artificial Intelligence Containerization Success is how high you bounce when you hit bottom. Cloud GraphQL JavaScript Machine Learning Scalability
 Kubernetes Monitoring Neural Networks Container Orchestration Success is how high you bounce when you hit bottom. Replica Set Data Science Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Optimization CI/CD Parallel Processing Virtual Machines
+Automation To be the best, you must be able to handle the worst. Predictive Analytics I find that the harder I work, the more luck I seem to have. Message Queue Agile Stay hungry, stay foolish. Blockchain

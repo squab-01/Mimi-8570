@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. Scalability Event Sourcing GraphQL Ar
 React Monitoring The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Agile Parallel Processing
 Success usually comes to those who are too busy to be looking for it. Docker OAuth Lambda Functions Frontend
 Containerization Dream big and dare to fail. Frontend Code Review Big Data Predictive Analytics Testing RabbitMQ Container Orchestration IoT Zero Downtime Deployment UX Optimization A/B Testing Neural Networks
+Pull Request Database Indexing Backend Kafka Message Queue
