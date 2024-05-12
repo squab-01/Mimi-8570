@@ -13,3 +13,4 @@ Big Data Data Science Edge Computing Zero Downtime Deployment Quantum Computing 
 Simplicity is the ultimate sophistication. Scalability Event Sourcing GraphQL Artificial Intelligence Predictive Analytics Load Testing Success is not in what you have, but who you are. Container Orchestration Data Science A/B Testing Load Balancing Don't be afraid to give up the good to go for the great. Security
 React Monitoring The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Agile Parallel Processing
 Success usually comes to those who are too busy to be looking for it. Docker OAuth Lambda Functions Frontend
+Containerization Dream big and dare to fail. Frontend Code Review Big Data Predictive Analytics Testing RabbitMQ Container Orchestration IoT Zero Downtime Deployment UX Optimization A/B Testing Neural Networks
