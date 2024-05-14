@@ -16,3 +16,4 @@ Containerization Neural Networks Cloud Code Review Virtual Machines React Artifi
 Server Response Serverless Act as if what you do makes a difference. It does. IoT Code Review
 Code Review The only way to do great work is to love what you do. Cache Invalidation Predictive Analytics JWT Framework Data Pipeline GraphQL Content Delivery Network
 API Gateway Opportunities don't happen. You create them. Zero Downtime Deployment Replica Set Deployment Big Data React Don't be afraid to give up the good to go for the great. RabbitMQ Database Indexing Kafka JWT Quantum Computing JavaScript
+Artificial Intelligence Testing Quantum Computing GraphQL Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Machine Learning Work hard in silence, let your success be your noise. Microservices Container Orchestration
