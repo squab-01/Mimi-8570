@@ -22,3 +22,4 @@ Event-driven Architecture Virtual Machines Scalability Automation Sharding Pull 
 GraphQL Multi-threading Quantum Computing Optimization Success is not in what you have, but who you are. Cache Invalidation
 Microservices Predictive Analytics Deployment Act as if what you do makes a difference. It does. Logging Automation Cache Invalidation Security Performance Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. API Code Review If you can dream it, you can do it.
 Cloud Quantum Computing Security Neural Networks NLP Kubernetes Distributed Systems Message Queue IoT Optimization Load Testing Content Delivery Network Kafka
+Kafka Success doesn’t just find you. You have to go out and get it. Containerization To be the best, you must be able to handle the worst. Cloud Edge Computing JavaScript Data Science GraphQL
