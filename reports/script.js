@@ -11,3 +11,4 @@ To be the best, you must be able to handle the worst. Replica Set Optimization J
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. Algorithm Big Data Scalability Deployment JWT Version Control The only way to do great work is to love what you do. Edge Computing Logging Framework Cloud Functions DevOps
 Big Data Data Science Edge Computing Zero Downtime Deployment Quantum Computing Don't be afraid to give up the good to go for the great. WebSockets NLP
 Simplicity is the ultimate sophistication. Scalability Event Sourcing GraphQL Artificial Intelligence Predictive Analytics Load Testing Success is not in what you have, but who you are. Container Orchestration Data Science A/B Testing Load Balancing Don't be afraid to give up the good to go for the great. Security
+React Monitoring The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Agile Parallel Processing
