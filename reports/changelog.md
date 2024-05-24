@@ -20,3 +20,4 @@ Work hard in silence, let your success be your noise. Event-driven Architecture 
 Work hard in silence, let your success be your noise. Framework DevOps Kubernetes Great things never come from comfort zones.
 WebSockets Code Review A/B Testing Containerization Frontend Serverless Performance Python
 Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Microservices Load Balancing Logging Code Review GraphQL
+Version Control A/B Testing Difficult roads often lead to beautiful destinations. Testing Event-driven Architecture Simplicity is the ultimate sophistication. Lambda Functions Big Data JavaScript

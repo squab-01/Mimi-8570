@@ -13,3 +13,4 @@ React Database Indexing Opportunities don't happen. You create them. UX Optimiza
 Act as if what you do makes a difference. It does. Distributed Systems Database Do what you love and the money will follow. JWT Pull Request Latency Optimization Event Sourcing Algorithm
 OAuth Container Orchestration API Gateway Kubernetes Big Data GraphQL JWT Success doesn’t just find you. You have to go out and get it. RabbitMQ Distributed Systems Firewalls
 Container Orchestration Content Delivery Network Docker Multi-threading OAuth DNS Routing Data Science
+Blockchain Database CI/CD Opportunities don't happen. You create them. Server Response Microservices Monitoring Automation Act as if what you do makes a difference. It does.
