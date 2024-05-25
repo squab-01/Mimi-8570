@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Docker Pull Request Simpli
 React Database Indexing Opportunities don't happen. You create them. UX Optimization WebSockets Event-driven Architecture Multi-threading API Kubernetes GraphQL
 Act as if what you do makes a difference. It does. Distributed Systems Database Do what you love and the money will follow. JWT Pull Request Latency Optimization Event Sourcing Algorithm
 OAuth Container Orchestration API Gateway Kubernetes Big Data GraphQL JWT Success doesn’t just find you. You have to go out and get it. RabbitMQ Distributed Systems Firewalls
+Container Orchestration Content Delivery Network Docker Multi-threading OAuth DNS Routing Data Science
