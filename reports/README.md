@@ -17,3 +17,4 @@ Testing Innovation distinguishes between a leader and a follower. Optimization T
 Happiness is not something ready made. It comes from your own actions. Edge Computing CI/CD Version Control Quantum Computing Sharding Stay hungry, stay foolish. Containerization Frontend A/B Testing Dream big and dare to fail. Algorithm Neural Networks
 Kubernetes Data Science DevOps JWT Deployment Logging
 Zero Downtime Deployment Multi-threading JWT Container Orchestration Work hard in silence, let your success be your noise.
+Multi-threading Lambda Functions Pull Request The only way to do great work is to love what you do. WebSockets

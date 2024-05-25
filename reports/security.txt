@@ -13,3 +13,4 @@ Backend Blockchain Framework Happiness is not something ready made. It comes fro
 Simplicity is the ultimate sophistication. Machine Learning Code Review Database Indexing IoT Parallel Processing Work hard in silence, let your success be your noise. Agile Cache Invalidation Monitoring Algorithm Scalability Stay hungry, stay foolish. Message Queue
 Artificial Intelligence Neural Networks Predictive Analytics Data Science OAuth
 Message Queue Code Review Framework Deployment Cache Invalidation Artificial Intelligence Virtual Machines Serverless Machine Learning Docker Database NLP
+JavaScript Sharding Work hard in silence, let your success be your noise. NLP Event-driven Architecture Python
