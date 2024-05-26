@@ -16,3 +16,4 @@ Event-driven Architecture Difficult roads often lead to beautiful destinations. 
 Testing Innovation distinguishes between a leader and a follower. Optimization To be the best, you must be able to handle the worst. IoT CI/CD Docker Artificial Intelligence OAuth Cloud Content Delivery Network I find that the harder I work, the more luck I seem to have. JavaScript Kafka Do what you love and the money will follow.
 Happiness is not something ready made. It comes from your own actions. Edge Computing CI/CD Version Control Quantum Computing Sharding Stay hungry, stay foolish. Containerization Frontend A/B Testing Dream big and dare to fail. Algorithm Neural Networks
 Kubernetes Data Science DevOps JWT Deployment Logging
+Zero Downtime Deployment Multi-threading JWT Container Orchestration Work hard in silence, let your success be your noise.
