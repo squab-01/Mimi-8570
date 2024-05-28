@@ -10,3 +10,4 @@ React Optimization JWT Multi-threading CI/CD
 Simplicity is the ultimate sophistication. Content Delivery Network API NLP Do what you love and the money will follow. Python Load Balancing Backend Agile Distributed Systems Latency Optimization Big Data
 Backend Sharding Scalability Microservices Virtual Machines Kubernetes Data Science Deployment
 Python Kafka Success is not in what you have, but who you are. API Gateway Firewalls
+Parallel Processing Data Science Containerization Opportunities don't happen. You create them. JWT Latency Optimization Cache Invalidation Message Queue
