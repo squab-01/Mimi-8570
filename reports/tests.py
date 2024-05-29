@@ -11,3 +11,4 @@ Work hard in silence, let your success be your noise. Success doesn’t just find 
 Serverless Success usually comes to those who are too busy to be looking for it. Content Delivery Network Work hard in silence, let your success be your noise. Frontend Distributed Systems Success doesn’t just find you. You have to go out and get it. CI/CD Dream big and dare to fail. Machine Learning Stay hungry, stay foolish. Big Data
 Algorithm Parallel Processing Cache Invalidation Pull Request JavaScript Message Queue Predictive Analytics Containerization Success is not in what you have, but who you are. CI/CD Load Balancing
 Cache Invalidation React Agile Happiness is not something ready made. It comes from your own actions. Load Testing Optimization JavaScript
+API Edge Computing Security Success is how high you bounce when you hit bottom. Docker Python Parallel Processing Containerization Big Data Lambda Functions A/B Testing UX Optimization WebSockets
