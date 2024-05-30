@@ -16,3 +16,4 @@ Kafka Serverless Artificial Intelligence Great things never come from comfort zo
 Opportunities don't happen. You create them. Scalability Cloud Database Event Sourcing Replica Set API Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Container Orchestration Algorithm
 Latency Optimization DevOps Version Control Don't be afraid to give up the good to go for the great. UX Optimization Firewalls Event-driven Architecture Big Data Stay hungry, stay foolish. NLP
 Docker OAuth Edge Computing Kafka Framework Cloud Functions Latency Optimization Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have.
+Machine Learning Monitoring Multi-threading Server Response Replica Set
