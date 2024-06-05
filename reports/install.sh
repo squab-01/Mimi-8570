@@ -17,3 +17,4 @@ Distributed Systems UX Optimization Stay hungry, stay foolish. CI/CD Deployment 
 Neural Networks Performance Message Queue Cloud DevOps JavaScript Agile Simplicity is the ultimate sophistication.
 Great things never come from comfort zones. DNS Routing Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Artificial Intelligence
 JWT I find that the harder I work, the more luck I seem to have. CI/CD Testing Event Sourcing Distributed Systems Microservices Kubernetes Predictive Analytics WebSockets Server Response Agile
+Docker JavaScript Predictive Analytics Lambda Functions GraphQL Cache Invalidation Data Pipeline Replica Set Event-driven Architecture Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great.
