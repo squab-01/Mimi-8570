@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Data Pipeline GraphQL 
 WebSockets Server Response Replica Set A/B Testing JWT
 JavaScript Agile WebSockets Cloud Serverless Pull Request
 Big Data Zero Downtime Deployment Neural Networks Frontend To be the best, you must be able to handle the worst. Predictive Analytics Quantum Computing Machine Learning Event-driven Architecture GraphQL A/B Testing DevOps
+NLP To be the best, you must be able to handle the worst. Replica Set I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Pull Request IoT Backend Zero Downtime Deployment Kubernetes Data Science Neural Networks Kafka Serverless Parallel Processing
