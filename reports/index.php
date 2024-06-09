@@ -19,3 +19,4 @@ Logging WebSockets Database Indexing Edge Computing Containerization Work hard i
 Zero Downtime Deployment Serverless Framework Database Load Testing
 Microservices Message Queue Load Testing Container Orchestration RabbitMQ Difficult roads often lead to beautiful destinations.
 The only way to do great work is to love what you do. Logging RabbitMQ Don't be afraid to give up the good to go for the great. Frontend Kafka Work hard in silence, let your success be your noise. Artificial Intelligence NLP Cloud Functions
+DevOps Big Data DNS Routing WebSockets Server Response Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Predictive Analytics Container Orchestration Code Review Optimization
