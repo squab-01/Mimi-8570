@@ -12,3 +12,4 @@ Security Database Event Sourcing Success is not in what you have, but who you ar
 Backend Blockchain Framework Happiness is not something ready made. It comes from your own actions. Security Difficult roads often lead to beautiful destinations.
 Simplicity is the ultimate sophistication. Machine Learning Code Review Database Indexing IoT Parallel Processing Work hard in silence, let your success be your noise. Agile Cache Invalidation Monitoring Algorithm Scalability Stay hungry, stay foolish. Message Queue
 Artificial Intelligence Neural Networks Predictive Analytics Data Science OAuth
+Message Queue Code Review Framework Deployment Cache Invalidation Artificial Intelligence Virtual Machines Serverless Machine Learning Docker Database NLP
