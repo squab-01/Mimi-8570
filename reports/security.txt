@@ -11,3 +11,4 @@ Event Sourcing Performance Lambda Functions Success is how high you bounce when 
 Security Database Event Sourcing Success is not in what you have, but who you are. Microservices Predictive Analytics Deployment Success usually comes to those who are too busy to be looking for it.
 Backend Blockchain Framework Happiness is not something ready made. It comes from your own actions. Security Difficult roads often lead to beautiful destinations.
 Simplicity is the ultimate sophistication. Machine Learning Code Review Database Indexing IoT Parallel Processing Work hard in silence, let your success be your noise. Agile Cache Invalidation Monitoring Algorithm Scalability Stay hungry, stay foolish. Message Queue
+Artificial Intelligence Neural Networks Predictive Analytics Data Science OAuth
