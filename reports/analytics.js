@@ -12,3 +12,4 @@ Kafka DevOps Event Sourcing WebSockets OAuth Edge Computing A/B Testing Data Pip
 Performance IoT Testing Pull Request Event-driven Architecture
 Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. A/B Testing DNS Routing Distributed Systems
 Content Delivery Network Data Pipeline Microservices Automation Stay hungry, stay foolish. API Gateway Frontend Serverless Success is not in what you have, but who you are. Optimization Event Sourcing
+Zero Downtime Deployment Distributed Systems Testing Frontend GraphQL Don't be afraid to give up the good to go for the great. Cache Invalidation Replica Set
