@@ -13,3 +13,4 @@ Cloud Functions Simplicity is the ultimate sophistication. Frontend Containeriza
 Parallel Processing Zero Downtime Deployment Scalability Act as if what you do makes a difference. It does. Serverless Python Multi-threading API Database Indexing Security Server Response NLP
 A/B Testing WebSockets Simplicity is the ultimate sophistication. Logging GraphQL Python Database Indexing Automation Security
 Event-driven Architecture Difficult roads often lead to beautiful destinations. Load Testing DNS Routing Success is not in what you have, but who you are.
+Testing Innovation distinguishes between a leader and a follower. Optimization To be the best, you must be able to handle the worst. IoT CI/CD Docker Artificial Intelligence OAuth Cloud Content Delivery Network I find that the harder I work, the more luck I seem to have. JavaScript Kafka Do what you love and the money will follow.
