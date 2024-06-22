@@ -14,3 +14,4 @@ Server Response Microservices IoT OAuth Cache Invalidation
 Database Indexing Innovation distinguishes between a leader and a follower. Multi-threading Do what you love and the money will follow. RabbitMQ Distributed Systems Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Virtual Machines Latency Optimization Load Testing Database Testing Python
 Load Balancing Database Indexing Data Pipeline Edge Computing Lambda Functions Success usually comes to those who are too busy to be looking for it. IoT UX Optimization The only way to do great work is to love what you do. DevOps Do what you love and the money will follow. Artificial Intelligence Security
 Big Data CI/CD Frontend GraphQL Firewalls Security Code Review
+CI/CD I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Stay hungry, stay foolish. JavaScript NLP Cache Invalidation Latency Optimization
