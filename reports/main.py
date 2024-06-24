@@ -14,3 +14,4 @@ Docker Python Frontend React Cache Invalidation
 Automation Edge Computing Don't be afraid to give up the good to go for the great. Sharding Database Parallel Processing Event Sourcing Security Distributed Systems I find that the harder I work, the more luck I seem to have. DNS Routing Stay hungry, stay foolish.
 Kafka Serverless Artificial Intelligence Great things never come from comfort zones. Multi-threading API Sharding DevOps To be the best, you must be able to handle the worst.
 Opportunities don't happen. You create them. Scalability Cloud Database Event Sourcing Replica Set API Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Container Orchestration Algorithm
+Latency Optimization DevOps Version Control Don't be afraid to give up the good to go for the great. UX Optimization Firewalls Event-driven Architecture Big Data Stay hungry, stay foolish. NLP
