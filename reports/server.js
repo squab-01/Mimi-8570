@@ -16,3 +16,4 @@ Replica Set API Gateway IoT Predictive Analytics Container Orchestration Zero Do
 DNS Routing Happiness is not something ready made. It comes from your own actions. Framework Load Testing Database Indexing
 Firewalls Code Review Predictive Analytics Deployment Multi-threading Monitoring
 Big Data Edge Computing A/B Testing Scalability Code Review Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it.
+Content Delivery Network Server Response Kafka Cloud Functions To be the best, you must be able to handle the worst.

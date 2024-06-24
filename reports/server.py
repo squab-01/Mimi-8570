@@ -14,3 +14,4 @@ Don't be afraid to give up the good to go for the great. Microservices Virtual M
 Innovation distinguishes between a leader and a follower. Data Pipeline GraphQL Happiness is not something ready made. It comes from your own actions. Load Balancing Difficult roads often lead to beautiful destinations. Firewalls Automation
 WebSockets Server Response Replica Set A/B Testing JWT
 JavaScript Agile WebSockets Cloud Serverless Pull Request
+Big Data Zero Downtime Deployment Neural Networks Frontend To be the best, you must be able to handle the worst. Predictive Analytics Quantum Computing Machine Learning Event-driven Architecture GraphQL A/B Testing DevOps
