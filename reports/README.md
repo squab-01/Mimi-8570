@@ -12,3 +12,4 @@ Edge Computing Quantum Computing Serverless Happiness is not something ready mad
 Cloud Functions Simplicity is the ultimate sophistication. Frontend Containerization If you can dream it, you can do it. Deployment A/B Testing Machine Learning NLP React
 Parallel Processing Zero Downtime Deployment Scalability Act as if what you do makes a difference. It does. Serverless Python Multi-threading API Database Indexing Security Server Response NLP
 A/B Testing WebSockets Simplicity is the ultimate sophistication. Logging GraphQL Python Database Indexing Automation Security
+Event-driven Architecture Difficult roads often lead to beautiful destinations. Load Testing DNS Routing Success is not in what you have, but who you are.
