@@ -8,3 +8,4 @@ Zero Downtime Deployment DevOps Content Delivery Network Algorithm Data Science 
 GraphQL Event Sourcing Dream big and dare to fail. JavaScript Stay hungry, stay foolish.
 Load Balancing GraphQL Containerization Agile Microservices I find that the harder I work, the more luck I seem to have. Content Delivery Network
 Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Security A/B Testing Load Testing JavaScript
+Serverless Success usually comes to those who are too busy to be looking for it. Content Delivery Network Work hard in silence, let your success be your noise. Frontend Distributed Systems Success doesn’t just find you. You have to go out and get it. CI/CD Dream big and dare to fail. Machine Learning Stay hungry, stay foolish. Big Data
