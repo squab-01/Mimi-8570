@@ -13,3 +13,4 @@ Latency Optimization Serverless Firewalls Kubernetes Parallel Processing Cloud F
 DevOps Zero Downtime Deployment Docker Version Control Machine Learning Kafka Sharding Scalability WebSockets
 Kubernetes Zero Downtime Deployment Cloud I find that the harder I work, the more luck I seem to have. Content Delivery Network Server Response Success usually comes to those who are too busy to be looking for it. Container Orchestration Lambda Functions Act as if what you do makes a difference. It does. Cloud Functions JavaScript Performance Kafka
 JavaScript API Gateway Replica Set Deployment Work hard in silence, let your success be your noise. Kafka Security Docker
+Microservices Load Testing Database Artificial Intelligence Containerization Success is how high you bounce when you hit bottom. Cloud GraphQL JavaScript Machine Learning Scalability

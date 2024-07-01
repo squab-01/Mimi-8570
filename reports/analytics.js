@@ -10,3 +10,4 @@ Dream big and dare to fail. Pull Request Message Queue Success is how high you b
 I find that the harder I work, the more luck I seem to have. Pull Request Replica Set Serverless Artificial Intelligence Quantum Computing Big Data DNS Routing Framework Database Load Balancing Kubernetes Security Virtual Machines Container Orchestration
 Kafka DevOps Event Sourcing WebSockets OAuth Edge Computing A/B Testing Data Pipeline Predictive Analytics Multi-threading Sharding Agile Code Review Blockchain To be the best, you must be able to handle the worst.
 Performance IoT Testing Pull Request Event-driven Architecture
+Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. A/B Testing DNS Routing Distributed Systems
