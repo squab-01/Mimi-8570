@@ -9,3 +9,4 @@ Automation I find that the harder I work, the more luck I seem to have. Don't be
 Dream big and dare to fail. Pull Request Message Queue Success is how high you bounce when you hit bottom. UX Optimization Replica Set Success is not in what you have, but who you are. Sharding Simplicity is the ultimate sophistication. Optimization Testing A/B Testing Docker
 I find that the harder I work, the more luck I seem to have. Pull Request Replica Set Serverless Artificial Intelligence Quantum Computing Big Data DNS Routing Framework Database Load Balancing Kubernetes Security Virtual Machines Container Orchestration
 Kafka DevOps Event Sourcing WebSockets OAuth Edge Computing A/B Testing Data Pipeline Predictive Analytics Multi-threading Sharding Agile Code Review Blockchain To be the best, you must be able to handle the worst.
+Performance IoT Testing Pull Request Event-driven Architecture
