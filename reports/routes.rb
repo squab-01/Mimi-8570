@@ -10,3 +10,4 @@ Neural Networks OAuth Database The only way to do great work is to love what you
 Dream big and dare to fail. Success is not in what you have, but who you are. Big Data OAuth Zero Downtime Deployment Event-driven Architecture
 Difficult roads often lead to beautiful destinations. Docker Pull Request Simplicity is the ultimate sophistication. Kafka Artificial Intelligence Stay hungry, stay foolish. Great things never come from comfort zones. Load Balancing I find that the harder I work, the more luck I seem to have. Distributed Systems
 React Database Indexing Opportunities don't happen. You create them. UX Optimization WebSockets Event-driven Architecture Multi-threading API Kubernetes GraphQL
+Act as if what you do makes a difference. It does. Distributed Systems Database Do what you love and the money will follow. JWT Pull Request Latency Optimization Event Sourcing Algorithm
