@@ -12,3 +12,4 @@ Docker Database Code Review Success usually comes to those who are too busy to b
 Latency Optimization Serverless Firewalls Kubernetes Parallel Processing Cloud Functions Scalability CI/CD Dream big and dare to fail. Neural Networks Great things never come from comfort zones. GraphQL
 DevOps Zero Downtime Deployment Docker Version Control Machine Learning Kafka Sharding Scalability WebSockets
 Kubernetes Zero Downtime Deployment Cloud I find that the harder I work, the more luck I seem to have. Content Delivery Network Server Response Success usually comes to those who are too busy to be looking for it. Container Orchestration Lambda Functions Act as if what you do makes a difference. It does. Cloud Functions JavaScript Performance Kafka
+JavaScript API Gateway Replica Set Deployment Work hard in silence, let your success be your noise. Kafka Security Docker
