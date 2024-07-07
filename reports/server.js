@@ -15,3 +15,4 @@ Neural Networks Pull Request Predictive Analytics I find that the harder I work,
 Replica Set API Gateway IoT Predictive Analytics Container Orchestration Zero Downtime Deployment Framework Docker Server Response
 DNS Routing Happiness is not something ready made. It comes from your own actions. Framework Load Testing Database Indexing
 Firewalls Code Review Predictive Analytics Deployment Multi-threading Monitoring
+Big Data Edge Computing A/B Testing Scalability Code Review Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it.
