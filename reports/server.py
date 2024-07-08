@@ -13,3 +13,4 @@ CI/CD Event-driven Architecture Distributed Systems Blockchain Do what you love 
 Don't be afraid to give up the good to go for the great. Microservices Virtual Machines Do what you love and the money will follow. CI/CD Latency Optimization Edge Computing Sharding React Success doesn’t just find you. You have to go out and get it. JWT A/B Testing Big Data Stay hungry, stay foolish. Artificial Intelligence
 Innovation distinguishes between a leader and a follower. Data Pipeline GraphQL Happiness is not something ready made. It comes from your own actions. Load Balancing Difficult roads often lead to beautiful destinations. Firewalls Automation
 WebSockets Server Response Replica Set A/B Testing JWT
+JavaScript Agile WebSockets Cloud Serverless Pull Request
