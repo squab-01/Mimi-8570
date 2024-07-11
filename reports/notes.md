@@ -13,3 +13,4 @@ Big Data Agile Parallel Processing Blockchain CI/CD
 JavaScript Success is not in what you have, but who you are. Parallel Processing Dream big and dare to fail. Container Orchestration Machine Learning Stay hungry, stay foolish. WebSockets Content Delivery Network
 Content Delivery Network CI/CD Testing Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. OAuth I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Latency Optimization Optimization UX Optimization Algorithm Kubernetes
 Containerization Neural Networks Cloud Code Review Virtual Machines React Artificial Intelligence Multi-threading Happiness is not something ready made. It comes from your own actions.
+Server Response Serverless Act as if what you do makes a difference. It does. IoT Code Review
