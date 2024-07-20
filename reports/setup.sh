@@ -7,3 +7,4 @@ Parallel Processing Big Data UX Optimization Data Science Great things never com
 Backend Message Queue The only way to do great work is to love what you do. Agile IoT Monitoring API Opportunities don't happen. You create them. Edge Computing
 Great things never come from comfort zones. React Server Response Docker Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Database Indexing
 React Optimization JWT Multi-threading CI/CD
+Simplicity is the ultimate sophistication. Content Delivery Network API NLP Do what you love and the money will follow. Python Load Balancing Backend Agile Distributed Systems Latency Optimization Big Data
