@@ -9,3 +9,4 @@ Parallel Processing Difficult roads often lead to beautiful destinations. Great 
 Server Response IoT Python Latency Optimization NLP Logging Innovation distinguishes between a leader and a follower. Pull Request Neural Networks
 Lambda Functions Serverless Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Performance Quantum Computing Database Indexing Innovation distinguishes between a leader and a follower. WebSockets
 Edge Computing Quantum Computing Serverless Happiness is not something ready made. It comes from your own actions. JWT Neural Networks
+Cloud Functions Simplicity is the ultimate sophistication. Frontend Containerization If you can dream it, you can do it. Deployment A/B Testing Machine Learning NLP React
