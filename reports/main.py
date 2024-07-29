@@ -11,3 +11,4 @@ Kafka Happiness is not something ready made. It comes from your own actions. Wor
 Data Pipeline Performance Blockchain IoT Success is how high you bounce when you hit bottom. Database Indexing OAuth Agile React Multi-threading Backend Load Testing Artificial Intelligence
 Event Sourcing NLP Security Optimization Database Docker API Innovation distinguishes between a leader and a follower.
 Docker Python Frontend React Cache Invalidation
+Automation Edge Computing Don't be afraid to give up the good to go for the great. Sharding Database Parallel Processing Event Sourcing Security Distributed Systems I find that the harder I work, the more luck I seem to have. DNS Routing Stay hungry, stay foolish.
