@@ -16,3 +16,4 @@ JavaScript Simplicity is the ultimate sophistication. Event Sourcing Success doe
 Security Testing Event Sourcing Zero Downtime Deployment WebSockets Version Control Success is how high you bounce when you hit bottom. Edge Computing The only way to do great work is to love what you do. API Gateway Message Queue
 Agile Lambda Functions Microservices Scalability Serverless Python Logging Act as if what you do makes a difference. It does.
 Logging WebSockets Database Indexing Edge Computing Containerization Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Multi-threading Innovation distinguishes between a leader and a follower. RabbitMQ Database Container Orchestration
+Zero Downtime Deployment Serverless Framework Database Load Testing
