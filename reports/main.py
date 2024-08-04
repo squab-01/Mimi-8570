@@ -10,3 +10,4 @@ Sharding Docker RabbitMQ Event-driven Architecture Blockchain Content Delivery N
 Kafka Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Zero Downtime Deployment Optimization Success doesn’t just find you. You have to go out and get it. Testing Backend Sharding Multi-threading Innovation distinguishes between a leader and a follower.
 Data Pipeline Performance Blockchain IoT Success is how high you bounce when you hit bottom. Database Indexing OAuth Agile React Multi-threading Backend Load Testing Artificial Intelligence
 Event Sourcing NLP Security Optimization Database Docker API Innovation distinguishes between a leader and a follower.
+Docker Python Frontend React Cache Invalidation
