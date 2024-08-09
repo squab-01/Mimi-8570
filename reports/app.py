@@ -6,3 +6,4 @@ Parallel Processing JWT Replica Set Distributed Systems Python Load Testing Lamb
 Innovation distinguishes between a leader and a follower. Edge Computing Distributed Systems Data Pipeline Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Message Queue Microservices Kubernetes Server Response Quantum Computing Optimization
 Difficult roads often lead to beautiful destinations. Frontend If you can dream it, you can do it. Server Response Stay hungry, stay foolish. A/B Testing
 Success usually comes to those who are too busy to be looking for it. Parallel Processing Serverless Lambda Functions CI/CD
+Replica Set Microservices A/B Testing Containerization Distributed Systems Artificial Intelligence Agile Scalability Pull Request Machine Learning Happiness is not something ready made. It comes from your own actions.
