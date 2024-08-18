@@ -8,3 +8,4 @@ Dream big and dare to fail. Sharding Kafka Replica Set Database Content Delivery
 API Gateway NLP API Virtual Machines Containerization Artificial Intelligence Kubernetes Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Monitoring Python Machine Learning Parallel Processing
 IoT Quantum Computing Automation Don't be afraid to give up the good to go for the great. Message Queue Server Response Replica Set Opportunities don't happen. You create them.
 JWT Content Delivery Network Blockchain Neural Networks NLP Difficult roads often lead to beautiful destinations. Container Orchestration
+CI/CD Don't be afraid to give up the good to go for the great. JWT Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Event Sourcing API Gateway Cache Invalidation IoT Automation Load Balancing Docker Database Distributed Systems Database Indexing

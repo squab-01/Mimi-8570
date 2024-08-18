@@ -7,3 +7,4 @@ Simplicity is the ultimate sophistication. Success is not in what you have, but 
 React Code Review Content Delivery Network Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Virtual Machines Dream big and dare to fail. Testing Act as if what you do makes a difference. It does. Server Response
 Cache Invalidation Cloud Agile JavaScript Algorithm Distributed Systems Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Event Sourcing CI/CD Code Review
 Cloud Testing Great things never come from comfort zones. Serverless DevOps
+API Innovation distinguishes between a leader and a follower. Multi-threading A/B Testing Lambda Functions Docker Testing Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Code Review
