@@ -10,3 +10,4 @@ Multi-threading Success usually comes to those who are too busy to be looking fo
 Quantum Computing API Content Delivery Network Zero Downtime Deployment Distributed Systems Containerization
 React Agile Optimization Difficult roads often lead to beautiful destinations. Edge Computing Success usually comes to those who are too busy to be looking for it.
 A/B Testing Security WebSockets Monitoring Simplicity is the ultimate sophistication.
+Framework Optimization Big Data Multi-threading CI/CD WebSockets Containerization
