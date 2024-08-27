@@ -9,3 +9,4 @@ Data Pipeline I find that the harder I work, the more luck I seem to have. Serve
 Agile Success usually comes to those who are too busy to be looking for it. DevOps Frontend Predictive Analytics Zero Downtime Deployment CI/CD Artificial Intelligence Database Code Review
 A/B Testing Scalability Stay hungry, stay foolish. Load Testing Quantum Computing Message Queue DevOps OAuth UX Optimization Blockchain Automation
 Data Science Framework Load Balancing Optimization Backend
+Firewalls Version Control Work hard in silence, let your success be your noise. Blockchain Pull Request Data Pipeline Do what you love and the money will follow. Automation GraphQL I find that the harder I work, the more luck I seem to have.
