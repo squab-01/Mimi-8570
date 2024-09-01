@@ -6,3 +6,4 @@ Security Load Balancing Artificial Intelligence Testing Performance Container Or
 Sharding IoT Message Queue JavaScript Big Data Stay hungry, stay foolish. Server Response Database Indexing
 Big Data JavaScript JWT Innovation distinguishes between a leader and a follower. Optimization Great things never come from comfort zones. A/B Testing Happiness is not something ready made. It comes from your own actions. Containerization Agile Pull Request DevOps
 If you can dream it, you can do it. Deployment Latency Optimization Microservices Security Success is how high you bounce when you hit bottom. Monitoring
+Big Data Security Cloud Edge Computing Kubernetes Great things never come from comfort zones. Database Lambda Functions Python Quantum Computing I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise.
