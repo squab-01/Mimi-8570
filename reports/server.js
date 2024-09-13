@@ -8,3 +8,4 @@ Content Delivery Network Simplicity is the ultimate sophistication. Success is h
 Load Balancing Load Testing WebSockets API JavaScript Agile Framework
 Multi-threading Success usually comes to those who are too busy to be looking for it. Event-driven Architecture WebSockets Framework Data Pipeline
 Quantum Computing API Content Delivery Network Zero Downtime Deployment Distributed Systems Containerization
+React Agile Optimization Difficult roads often lead to beautiful destinations. Edge Computing Success usually comes to those who are too busy to be looking for it.
