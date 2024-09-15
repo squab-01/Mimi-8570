@@ -11,3 +11,4 @@ Version Control Neural Networks Work hard in silence, let your success be your n
 Performance API Gateway If you can dream it, you can do it. React Frontend Container Orchestration
 Dream big and dare to fail. React Event-driven Architecture Security API Gateway To be the best, you must be able to handle the worst. Cache Invalidation Sharding JWT Cloud Functions Zero Downtime Deployment
 Version Control Replica Set Python Kafka I find that the harder I work, the more luck I seem to have. Data Pipeline Quantum Computing Do what you love and the money will follow. API Gateway JWT Scalability Serverless Difficult roads often lead to beautiful destinations.
+Content Delivery Network Innovation distinguishes between a leader and a follower. Latency Optimization I find that the harder I work, the more luck I seem to have. Database Indexing GraphQL

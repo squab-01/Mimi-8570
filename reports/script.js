@@ -7,3 +7,4 @@ React Latency Optimization DevOps Serverless Performance Neural Networks Difficu
 Load Testing Data Science Framework Success is how high you bounce when you hit bottom. Deployment Python Testing Event Sourcing Opportunities don't happen. You create them.
 Parallel Processing Pull Request UX Optimization Do what you love and the money will follow. Framework Success usually comes to those who are too busy to be looking for it. Automation NLP The only way to do great work is to love what you do.
 Logging Predictive Analytics GraphQL Act as if what you do makes a difference. It does. NLP
+To be the best, you must be able to handle the worst. Replica Set Optimization JWT Stay hungry, stay foolish. OAuth Event-driven Architecture Success is how high you bounce when you hit bottom. Version Control Python
