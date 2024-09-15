@@ -9,3 +9,4 @@ Agile Stay hungry, stay foolish. CI/CD API Gateway Microservices Latency Optimiz
 Edge Computing Agile Blockchain Don't be afraid to give up the good to go for the great. RabbitMQ Code Review WebSockets OAuth Optimization UX Optimization Sharding Message Queue React
 Testing The only way to do great work is to love what you do. Framework Python Zero Downtime Deployment API Gateway Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Cloud Functions Great things never come from comfort zones. Artificial Intelligence Sharding
 Act as if what you do makes a difference. It does. Container Orchestration OAuth GraphQL Lambda Functions Automation Firewalls Message Queue Innovation distinguishes between a leader and a follower. Cloud Version Control
+Big Data Agile Parallel Processing Blockchain CI/CD
