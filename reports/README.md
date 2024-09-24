@@ -5,3 +5,4 @@ WebSockets Cache Invalidation Edge Computing Scalability Containerization Firewa
 Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Version Control Opportunities don't happen. You create them. Data Pipeline
 API RabbitMQ Stay hungry, stay foolish. Docker A/B Testing Lambda Functions Data Pipeline
 Version Control WebSockets React Parallel Processing Success is not in what you have, but who you are. Python
+Parallel Processing Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Artificial Intelligence Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Security Database Lambda Functions Machine Learning The only way to do great work is to love what you do. React Work hard in silence, let your success be your noise.

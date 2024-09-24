@@ -8,3 +8,4 @@ Lambda Functions Code Review Pull Request JavaScript Success doesn’t just find y
 Data Pipeline I find that the harder I work, the more luck I seem to have. Serverless Innovation distinguishes between a leader and a follower. Optimization Testing JWT Act as if what you do makes a difference. It does.
 Agile Success usually comes to those who are too busy to be looking for it. DevOps Frontend Predictive Analytics Zero Downtime Deployment CI/CD Artificial Intelligence Database Code Review
 A/B Testing Scalability Stay hungry, stay foolish. Load Testing Quantum Computing Message Queue DevOps OAuth UX Optimization Blockchain Automation
+Data Science Framework Load Balancing Optimization Backend
