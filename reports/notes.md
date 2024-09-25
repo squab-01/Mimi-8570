@@ -7,3 +7,4 @@ JWT Success is how high you bounce when you hit bottom. Data Science Scalability
 Cache Invalidation Latency Optimization Distributed Systems A/B Testing RabbitMQ GraphQL Deployment API
 Agile Stay hungry, stay foolish. CI/CD API Gateway Microservices Latency Optimization Testing Quantum Computing Success is how high you bounce when you hit bottom.
 Edge Computing Agile Blockchain Don't be afraid to give up the good to go for the great. RabbitMQ Code Review WebSockets OAuth Optimization UX Optimization Sharding Message Queue React
+Testing The only way to do great work is to love what you do. Framework Python Zero Downtime Deployment API Gateway Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Cloud Functions Great things never come from comfort zones. Artificial Intelligence Sharding
