@@ -4,3 +4,4 @@ Performance Distributed Systems Innovation distinguishes between a leader and a 
 Testing Message Queue Database Event-driven Architecture If you can dream it, you can do it. Docker Success is not in what you have, but who you are. The only way to do great work is to love what you do. Deployment Dream big and dare to fail. Content Delivery Network Event Sourcing
 Security Load Balancing Artificial Intelligence Testing Performance Container Orchestration Quantum Computing Code Review Database Indexing IoT Event Sourcing The only way to do great work is to love what you do. Version Control
 Sharding IoT Message Queue JavaScript Big Data Stay hungry, stay foolish. Server Response Database Indexing
+Big Data JavaScript JWT Innovation distinguishes between a leader and a follower. Optimization Great things never come from comfort zones. A/B Testing Happiness is not something ready made. It comes from your own actions. Containerization Agile Pull Request DevOps
