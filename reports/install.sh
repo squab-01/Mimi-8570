@@ -9,3 +9,4 @@ Zero Downtime Deployment Testing Python Happiness is not something ready made. I
 DNS Routing Data Pipeline Deployment Quantum Computing GraphQL Scalability JavaScript
 Do what you love and the money will follow. JavaScript Firewalls Latency Optimization Framework Code Review Cloud Functions NLP Security Act as if what you do makes a difference. It does.
 Happiness is not something ready made. It comes from your own actions. Database Big Data CI/CD Success is not in what you have, but who you are. IoT Opportunities don't happen. You create them. Data Pipeline Blockchain Monitoring Latency Optimization Content Delivery Network
+API Gateway A/B Testing Neural Networks Cloud DNS Routing Cache Invalidation Microservices Cloud Functions
