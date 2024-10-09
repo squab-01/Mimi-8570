@@ -6,3 +6,4 @@ Blockchain Difficult roads often lead to beautiful destinations. API Dream big a
 Firewalls Database Performance Success doesn’t just find you. You have to go out and get it. Multi-threading Agile Containerization
 Act as if what you do makes a difference. It does. Message Queue Algorithm Replica Set Version Control Database Container Orchestration Event Sourcing Great things never come from comfort zones. NLP GraphQL Work hard in silence, let your success be your noise.
 Testing Data Science Docker Load Balancing Dream big and dare to fail. RabbitMQ Neural Networks Code Review Quantum Computing JavaScript Agile Replica Set If you can dream it, you can do it. Database
+Sharding Docker RabbitMQ Event-driven Architecture Blockchain Content Delivery Network Python WebSockets Quantum Computing JWT API Gateway CI/CD Optimization
