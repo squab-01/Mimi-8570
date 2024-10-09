@@ -7,3 +7,4 @@ Work hard in silence, let your success be your noise. OAuth JWT Containerization
 Lambda Functions Code Review Pull Request JavaScript Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Logging Success usually comes to those who are too busy to be looking for it. Algorithm Cache Invalidation Framework Kafka API Success is how high you bounce when you hit bottom. Latency Optimization
 Data Pipeline I find that the harder I work, the more luck I seem to have. Serverless Innovation distinguishes between a leader and a follower. Optimization Testing JWT Act as if what you do makes a difference. It does.
 Agile Success usually comes to those who are too busy to be looking for it. DevOps Frontend Predictive Analytics Zero Downtime Deployment CI/CD Artificial Intelligence Database Code Review
+A/B Testing Scalability Stay hungry, stay foolish. Load Testing Quantum Computing Message Queue DevOps OAuth UX Optimization Blockchain Automation
