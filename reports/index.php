@@ -8,3 +8,4 @@ Stay hungry, stay foolish. Innovation distinguishes between a leader and a follo
 Sharding A/B Testing Load Balancing Edge Computing Deployment Containerization Database Indexing Message Queue Logging Replica Set Kafka To be the best, you must be able to handle the worst. Automation
 DNS Routing Event Sourcing Neural Networks Quantum Computing Cloud Security Latency Optimization
 Version Control Neural Networks Work hard in silence, let your success be your noise. RabbitMQ Database Dream big and dare to fail. Machine Learning API Firewalls
+Performance API Gateway If you can dream it, you can do it. React Frontend Container Orchestration

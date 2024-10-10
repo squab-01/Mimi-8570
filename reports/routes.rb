@@ -7,3 +7,4 @@ Success is not in what you have, but who you are. Code Review Edge Computing Dat
 To be the best, you must be able to handle the worst. Latency Optimization Containerization Cache Invalidation Difficult roads often lead to beautiful destinations. Data Science If you can dream it, you can do it. Cloud Functions
 NLP Event Sourcing Artificial Intelligence OAuth CI/CD Security
 Neural Networks OAuth Database The only way to do great work is to love what you do. Server Response
+Dream big and dare to fail. Success is not in what you have, but who you are. Big Data OAuth Zero Downtime Deployment Event-driven Architecture
