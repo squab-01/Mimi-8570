@@ -3,3 +3,4 @@ Success is how high you bounce when you hit bottom. JWT Frontend Simplicity is t
 Framework Blockchain Message Queue Database Indexing Machine Learning
 WebSockets Cache Invalidation Edge Computing Scalability Containerization Firewalls Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. API Gateway
 Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Version Control Opportunities don't happen. You create them. Data Pipeline
+API RabbitMQ Stay hungry, stay foolish. Docker A/B Testing Lambda Functions Data Pipeline
