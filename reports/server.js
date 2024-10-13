@@ -6,3 +6,4 @@ Data Pipeline Automation Quantum Computing Server Response Docker Predictive Ana
 Optimization Innovation distinguishes between a leader and a follower. UX Optimization Code Review IoT Pull Request
 Content Delivery Network Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Algorithm CI/CD Backend Machine Learning Happiness is not something ready made. It comes from your own actions.
 Load Balancing Load Testing WebSockets API JavaScript Agile Framework
+Multi-threading Success usually comes to those who are too busy to be looking for it. Event-driven Architecture WebSockets Framework Data Pipeline
