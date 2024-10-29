@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Work hard in silence, let your succ
 React Latency Optimization DevOps Serverless Performance Neural Networks Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Dream big and dare to fail.
 Load Testing Data Science Framework Success is how high you bounce when you hit bottom. Deployment Python Testing Event Sourcing Opportunities don't happen. You create them.
 Parallel Processing Pull Request UX Optimization Do what you love and the money will follow. Framework Success usually comes to those who are too busy to be looking for it. Automation NLP The only way to do great work is to love what you do.
+Logging Predictive Analytics GraphQL Act as if what you do makes a difference. It does. NLP
