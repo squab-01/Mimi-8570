@@ -4,3 +4,4 @@ Neural Networks Parallel Processing Automation Machine Learning Simplicity is th
 Blockchain Backend CI/CD Multi-threading Distributed Systems Quantum Computing Opportunities don't happen. You create them. Load Testing Don't be afraid to give up the good to go for the great. React Version Control Event Sourcing Database Innovation distinguishes between a leader and a follower. Logging
 Blockchain Difficult roads often lead to beautiful destinations. API Dream big and dare to fail. Data Science DNS Routing
 Firewalls Database Performance Success doesn’t just find you. You have to go out and get it. Multi-threading Agile Containerization
+Act as if what you do makes a difference. It does. Message Queue Algorithm Replica Set Version Control Database Container Orchestration Event Sourcing Great things never come from comfort zones. NLP GraphQL Work hard in silence, let your success be your noise.
