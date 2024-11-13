@@ -1,3 +1,4 @@
 Simplicity is the ultimate sophistication. Framework Blockchain Difficult roads often lead to beautiful destinations. Firewalls Dream big and dare to fail. Performance I find that the harder I work, the more luck I seem to have. Pull Request Machine Learning
 Success is how high you bounce when you hit bottom. JWT Frontend Simplicity is the ultimate sophistication. Sharding DevOps Great things never come from comfort zones. Cloud Functions Work hard in silence, let your success be your noise. Algorithm Opportunities don't happen. You create them. Multi-threading Content Delivery Network NLP Event-driven Architecture
 Framework Blockchain Message Queue Database Indexing Machine Learning
+WebSockets Cache Invalidation Edge Computing Scalability Containerization Firewalls Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. API Gateway

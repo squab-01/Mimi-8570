@@ -5,3 +5,4 @@ To be the best, you must be able to handle the worst. Kafka I find that the hard
 Big Data Scalability IoT Load Balancing Framework Firewalls Container Orchestration Multi-threading Code Review Success is how high you bounce when you hit bottom. DNS Routing Quantum Computing Innovation distinguishes between a leader and a follower. Sharding
 Agile Success is how high you bounce when you hit bottom. Deployment Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst.
 Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Container Orchestration Kubernetes Testing Event-driven Architecture Firewalls Security
+Sharding A/B Testing Load Balancing Edge Computing Deployment Containerization Database Indexing Message Queue Logging Replica Set Kafka To be the best, you must be able to handle the worst. Automation
