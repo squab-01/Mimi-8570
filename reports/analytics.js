@@ -3,3 +3,4 @@ Innovation distinguishes between a leader and a follower. The only way to do gre
 Kafka Monitoring Frontend Event Sourcing Latency Optimization Firewalls Opportunities don't happen. You create them.
 React Success doesn’t just find you. You have to go out and get it. Edge Computing Parallel Processing Machine Learning Data Pipeline Big Data
 WebSockets Framework Agile Success usually comes to those who are too busy to be looking for it. Replica Set To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. RabbitMQ DevOps Load Balancing Algorithm Kafka
+Agile Firewalls Latency Optimization Parallel Processing Success doesn’t just find you. You have to go out and get it. Data Pipeline Multi-threading
