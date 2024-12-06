@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. A/B Testi
 Do what you love and the money will follow. API CI/CD Database Kafka Frontend Cache Invalidation
 OAuth Algorithm Version Control WebSockets Innovation distinguishes between a leader and a follower. CI/CD IoT Monitoring Data Pipeline Kubernetes Zero Downtime Deployment Framework A/B Testing Logging Machine Learning
 Zero Downtime Deployment Testing Python Happiness is not something ready made. It comes from your own actions. React Virtual Machines Container Orchestration
+DNS Routing Data Pipeline Deployment Quantum Computing GraphQL Scalability JavaScript
