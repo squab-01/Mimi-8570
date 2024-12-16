@@ -6,3 +6,4 @@ Do what you love and the money will follow. Python Sharding The only way to do g
 Performance Great things never come from comfort zones. JavaScript Do what you love and the money will follow. Virtual Machines Event-driven Architecture
 Virtual Machines DevOps CI/CD Server Response JavaScript
 Virtual Machines Server Response Work hard in silence, let your success be your noise. API Gateway Version Control Parallel Processing Opportunities don't happen. You create them. Database Indexing Algorithm Monitoring Performance Replica Set React Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it.
+Data Science UX Optimization Cloud Event Sourcing Dream big and dare to fail. Virtual Machines
