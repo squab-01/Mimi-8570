@@ -1,3 +1,4 @@
 Docker Success is how high you bounce when you hit bottom. Multi-threading Message Queue Deployment API Gateway Sharding
 Machine Learning DNS Routing The only way to do great work is to love what you do. Optimization NLP Testing
 Performance Distributed Systems Innovation distinguishes between a leader and a follower. WebSockets Big Data Docker Difficult roads often lead to beautiful destinations.
+Testing Message Queue Database Event-driven Architecture If you can dream it, you can do it. Docker Success is not in what you have, but who you are. The only way to do great work is to love what you do. Deployment Dream big and dare to fail. Content Delivery Network Event Sourcing
