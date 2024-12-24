@@ -4,3 +4,4 @@ Act as if what you do makes a difference. It does. Cloud NLP Blockchain Scalabil
 Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Cloud Functions RabbitMQ Do what you love and the money will follow. Cloud
 Happiness is not something ready made. It comes from your own actions. A/B Testing NLP Machine Learning Framework Latency Optimization Performance Deployment If you can dream it, you can do it. Success is how high you bounce when you hit bottom. DNS Routing Sharding Dream big and dare to fail. Firewalls
 Do what you love and the money will follow. API CI/CD Database Kafka Frontend Cache Invalidation
+OAuth Algorithm Version Control WebSockets Innovation distinguishes between a leader and a follower. CI/CD IoT Monitoring Data Pipeline Kubernetes Zero Downtime Deployment Framework A/B Testing Logging Machine Learning
