@@ -1,2 +1,3 @@
 GraphQL Don't be afraid to give up the good to go for the great. Firewalls Kubernetes Agile Data Science API Great things never come from comfort zones. Deployment
 GraphQL Database Indexing Message Queue Do what you love and the money will follow. Testing Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Edge Computing Optimization Kafka To be the best, you must be able to handle the worst.
+Neural Networks Parallel Processing Automation Machine Learning Simplicity is the ultimate sophistication. Message Queue Security If you can dream it, you can do it. Cache Invalidation Multi-threading Predictive Analytics Frontend Optimization Scalability DNS Routing
