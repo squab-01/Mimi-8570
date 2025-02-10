@@ -1,0 +1,1 @@
+Neural Networks Act as if what you do makes a difference. It does. Kubernetes React JWT Happiness is not something ready made. It comes from your own actions. Version Control Simplicity is the ultimate sophistication. WebSockets
